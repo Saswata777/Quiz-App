@@ -6,7 +6,9 @@ A full-stack web application where users can test their knowledge by taking a qu
 
 ## Application Preview
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Quiz App Screenshot 1](quiz-1.jpeg)
+![Quiz App Screenshot 2](quiz-2.jpeg)
+![Quiz App Screenshot 3](quiz-3.jpeg)
 
 
 ## ✨ Features
