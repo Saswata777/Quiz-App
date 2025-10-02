@@ -12,7 +12,7 @@ A full-stack web application where users can test their knowledge by taking a qu
 
 ## 🔗 Application Architecture and Data Flow Diagram
 
-![End-to-End Quiz Workflow](https://www.figma.com/board/8DCBPHuI189XneZTGLEEzL/Online-Quiz-App?node-id=0-1&t=6e9Xaweel8UEqFo4-1)
+You can view the application's workflow diagram on [Figma](https://www.figma.com/board/8DCBPHuI189XneZTGLEEzL/Online-Quiz-App?node-id=0-1&t=6e9Xaweel8UEqFo4-1).
 
 
 ## ✨ Features
