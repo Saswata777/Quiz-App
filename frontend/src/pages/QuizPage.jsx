@@ -9,7 +9,7 @@ import blackboardBg from "../assets/empty-blackboard.jpg";
 export default function QuizPage() {
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [timeLeft, setTimeLeft] = useState(20 * 60);
+  const [timeLeft, setTimeLeft] = useState(10 * 60);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const navigate = useNavigate();
   const { answers, setAnswers, setScore } = useQuiz();

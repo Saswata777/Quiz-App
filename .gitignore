@@ -28,6 +28,7 @@ SQLite Database
 Ignore database files from the backend
 *.sqlite
 *.sqlite3
+/backend/quiz.db
 
 Editor directories and files
 .vscode/*
