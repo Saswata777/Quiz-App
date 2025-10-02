@@ -119,6 +119,15 @@ The backend API server will start, typically on `http://localhost:5000`.
 The application is now fully running and you can access it from your browser at the frontend URL.
 
 
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  npm test -- src/tests/quizService.test.js
+```
+
+
 
 
 
