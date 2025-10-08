@@ -89,7 +89,7 @@ export default function QuizPage() {
         // borderRadius: "8px",
       }}
     >
-        <div className="grid grid-flow-col gap-5 text-center auto-cols-max mb-6 fixed top-4 right-4 backdrop-blur-xs rounded-4xl">
+        <div className="grid grid-flow-col gap-5 text-center auto-cols-max mb-6 fixed top-4 right-4 backdrop-blur-xs rounded-4xl z-10">
           <div className="flex flex-col p-2 bg-neutral rounded-box text-neutral-content">
             <span className="countdown font-mono text-5xl">
               <span
