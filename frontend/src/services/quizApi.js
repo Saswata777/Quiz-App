@@ -1,7 +1,6 @@
 import axios from "axios";
-import process from 'process';
 
-const API_URL = process.env.NODE_ENV === 'production'
+const API_URL = import.meta.env.MODE === 'production'
   ? 'https://quiz-app-1xxt.onrender.com/api/quiz' // Deployed URL
   : 'http://localhost:5000/api/quiz';           // Local URL
 
